@@ -16,7 +16,8 @@ public class JavaApplication16 {
      */
     public static void main(String[] args) {
         
-        System.out.println("Bonjour " + args[1] + ", " + args[0]);
+        System.out.println("Bonjour " + args[0] + ", " + args[1]);
+        System.out.println("Au revoir!");
     }
     
 }
